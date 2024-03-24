@@ -1,0 +1,4 @@
+data/ filter=lfs diff=lfs merge=lfs -text
+resources/ filter=lfs diff=lfs merge=lfs -text
+1_mini_project/data/ filter=lfs diff=lfs merge=lfs -text
+1_mini_project/resources/ filter=lfs diff=lfs merge=lfs -text
